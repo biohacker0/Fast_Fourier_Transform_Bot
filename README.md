@@ -4,27 +4,27 @@
 Overview:
 This Discord bot allows users to upload MP3 audio files, analyze their frequency spectrum, and perform various audio processing tasks. It's a handy tool for visualizing and manipulating audio data right in your Discord server.
 
-Commands for discord bot :
-!upload
+## Bot Commands
 
-Description: Upload an MP3 file for analysis.
-Example: !upload [attach an MP3 file]
-!spectrum
+- **!upload**
+  - *Description*: Upload an MP3 file for analysis.
+  - *Example*: `!upload [attach an MP3 file]`
 
-Description: Generate and display the frequency spectrum of the uploaded audio.
-Example: !spectrum
-!waveform
+- **!spectrum**
+  - *Description*: Generate and display the frequency spectrum of the uploaded audio.
+  - *Example*: `!spectrum`
 
-Description: Generate and display the waveform of the uploaded audio.
-Example: !waveform
-!delete
+- **!waveform**
+  - *Description*: Generate and display the waveform of the uploaded audio.
+  - *Example*: `!waveform`
 
-Description: Delete a specific frequency component from the audio.
-Example: !delete 1000 (Deletes the frequency component at 1000 Hz)
-!alter
+- **!delete**
+  - *Description*: Delete a specific frequency component from the audio.
+  - *Example*: `!delete 1000` (Deletes the frequency component at 1000 Hz)
 
-Description: Alter a specific frequency component in the audio.
-Example: !alter 500 0.5 (Reduces the amplitude of the frequency component at 500 Hz by half)
+- **!alter**
+  - *Description*: Alter a specific frequency component in the audio.
+  - *Example*: `!alter 500 0.5` (Reduces the amplitude of the frequency component at 500 Hz by half)
 
 Features:
 
