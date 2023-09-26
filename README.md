@@ -1,5 +1,5 @@
 # Fast_Fourier_Transform_Bot
-"Discord bot for real-time audio analysis, visualization, and manipulation, offering commands like !upload, !spectrum, !delete, and !alter."
+"Discord bot for real-time audio analysis, visualization, and manipulation, offering commands like !upload, !spectrum, !delete, and !alter....."
 
 Overview:
 This Discord bot allows users to upload MP3 audio files, analyze their frequency spectrum, and perform various audio processing tasks. It's a handy tool for visualizing and manipulating audio data right in your Discord server.
